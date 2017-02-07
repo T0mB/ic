@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="opdr 3"/>
+	<classpathentry kind="src" path="opdr4"/>
+	<classpathentry kind="src" path="opdr5"/>
+	<classpathentry kind="src" path="tentamen"/>
+	<classpathentry kind="src" path="Project1"/>
+	<classpathentry kind="src" path="blok 2"/>
+	<classpathentry kind="src" path="oefenfolder"/>
+	<classpathentry kind="src" path="project2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/dll library"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Downloads/jlayer-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Documents/Jars/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Documents/Jars/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Documents/Jars/commons-lang3-3.3.2-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
